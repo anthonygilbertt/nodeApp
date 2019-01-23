@@ -1,3 +1,3 @@
 # nodeApp
 
-#A simple Node.js app that allows for logging
+A simple Node.js app that allows for logging
